@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\bin\Debug\EXAMENG.exe.config
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\bin\Debug\EXAMENG.exe
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\bin\Debug\EXAMENG.pdb
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.Form1.resources
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.Properties.Resources.resources
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.exe
+C:\Users\PC\Desktop\RECU SD GRAFICOS 2 2022\EXAMENG\EXAMENG\obj\Debug\EXAMENG.pdb
